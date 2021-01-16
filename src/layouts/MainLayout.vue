@@ -5,7 +5,7 @@ q-layout(view='lHh Lpr lFf')
 			q-btn(flat dense round icon='menu' aria-label='Menu' @click='leftDrawerOpen = !leftDrawerOpen')
 			q-toolbar-title
 				i.material-icons.md-36.q-mr-md rowing
-				| The African Queen
+				| Quietist Assyrians 
 
 			div 
 				i.material-icons.md-24.q-mr-md toys
