@@ -4,8 +4,8 @@ q-page.flex.flex-center
 		img(src="../assets/images/nyc-dynamo.jpg" style="filter: contrast(40%);")
 	.hero-text
 		img(alt='Laser Phaser' src='~assets/images/biohazard-white.svg' width="125px")
-		h4.q-mb-sm.q-mt-md Active Nucleotides
-			h5.q-my-md Quasar Is Quite Far
+		h4.q-mb-sm.q-mt-md Active Galactic Nuclei
+			h5.q-my-md Some Quasars Are Quite, Quite Far
 		.fit.row.q-gutter-md.justify-center
 			q-btn(label='Rashidun' color='primary' @click='fullHeight = true')
 			q-btn.q-ml-md(color="secondary") Astronomy
